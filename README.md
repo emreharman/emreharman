@@ -15,6 +15,7 @@
 <h2 align="center">Technologies</h2>
 
 <p align="center">
+  <img src="http://resources.spacexchimp.com/images/logos/HTML5.png">
 [![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
 [![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]()
 </p>
