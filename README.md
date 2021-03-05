@@ -23,6 +23,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="75" height="75">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width="75" height="75">
+  
 </p>
 
 
