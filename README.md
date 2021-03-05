@@ -12,7 +12,7 @@
     <a href="https://emreharman.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p> 
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Technologies :computer:</h2>
 
 <p align="center">
   <img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="75" height="75">
