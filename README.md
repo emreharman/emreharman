@@ -15,9 +15,9 @@
 <h2 align="center">Technologies</h2>
 
 <p align="center">
-  <img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="100">
-  <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="100">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="100">
+  <img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="50" height="75">
+  <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="50" height="75">
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="50" height="75">
   
   
 </p>
