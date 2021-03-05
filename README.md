@@ -1,6 +1,10 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Emre Harman and I'm a CS student at Sakarya University. 
+My name is Emre Harman and I'm a CS student at Sakarya University. I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network.
+
+# Coctact me : 
+
+[![alt text][1.1]][1]
 
 
 <!--
