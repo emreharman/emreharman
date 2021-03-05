@@ -17,6 +17,9 @@
 <p align="center">
   <img src="http://resources.spacexchimp.com/images/logos/HTML5.png">
   <img src="http://resources.spacexchimp.com/images/logos/CSS3.png">
+  <img src="https://imgbin.com/free-png/javascript-logo">
+  
+  
 </p>
 
 
