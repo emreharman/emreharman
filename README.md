@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Emre Harman and I'm a CS student at Sakarya University. 
+
 
 <!--
 **emreharman/emreharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
