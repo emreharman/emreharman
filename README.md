@@ -12,10 +12,12 @@
     <a href="https://emreharman.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p> 
 
-## Technologies:
+<h2 align="center">Technologies</h2>
 
+<p align="center">
 [![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
 [![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]()
+</p>
 
 
 
