@@ -27,7 +27,7 @@
   <img src="https://lh3.googleusercontent.com/proxy/BBCg8Whx14CorLGZ6TVNcu9Wj-IgjdNJwkmGNG1teOVRYDs5OWsDO4uW480-bJm6wcydHAPH595ADYS9dvE3kc9a1BUG7F-W_V-G5rpL2u0RSOt2aPvUZPVl_2j4MYs4" width="75" height="75">
 </p>
 <p align="center">
-  <img src="https://p7.hiclipart.com/preview/707/928/892/postgresql-logo-database-management-system-vector-graphics-sql-logo.jpg" width="75" height="75">
+  <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/postgresql/img/postgresql-stack-220x234.png" width="75" height="75">
   
 </p>
 
