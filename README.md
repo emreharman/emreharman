@@ -4,7 +4,13 @@ My name is Emre Harman and I'm a CS student at Sakarya University. I want to be 
 
 # Coctact me : 
 
-[![alt text][1.1]][1]
+## Technologies:
+
+[![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
+[![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]()
+[![PHP](http://resources.spacexchimp.com/images/logos/PHP.png)]()
+[![WordPress](http://resources.spacexchimp.com/images/logos/WordPress.png)](https://wordpress.org)
+[![License](http://resources.spacexchimp.com/images/logos/GPLv3.png)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 
 <!--
