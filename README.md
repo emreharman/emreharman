@@ -28,8 +28,10 @@
 
 
 <p align="center">
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreharman&show_icons=true)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=emreharman&show_icons=true">
 </p>
 
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreharman&show_icons=true)
 
 
