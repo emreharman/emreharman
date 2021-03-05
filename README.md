@@ -22,10 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="75" height="75">
-  <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="75" height="75">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="100" height="75">
-  <img src="https://ensocore.com/media/61/reactjs-logo-sticker%20%281%29.jpg" width="75" height="75">
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="75" height="75">
 </p>
 
 
