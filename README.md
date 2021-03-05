@@ -19,20 +19,17 @@
   <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="75" height="75">
   <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="100" height="75">
   <img src="https://ensocore.com/media/61/reactjs-logo-sticker%20%281%29.jpg" width="75" height="75">
-</p>
-
-<p align="center">
-  <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="75" height="75">
+    <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="75" height="75">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width="75" height="75">
   <img src="https://lh3.googleusercontent.com/proxy/BBCg8Whx14CorLGZ6TVNcu9Wj-IgjdNJwkmGNG1teOVRYDs5OWsDO4uW480-bJm6wcydHAPH595ADYS9dvE3kc9a1BUG7F-W_V-G5rpL2u0RSOt2aPvUZPVl_2j4MYs4" width="75" height="75">
-</p>
-<p align="center">
   <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/postgresql/img/postgresql-stack-220x234.png" width="75" height="75">
-  
 </p>
 
 
+
+<p align="center">
 ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreharman&show_icons=true)
+</p>
 
 
 
