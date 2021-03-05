@@ -17,7 +17,7 @@
 <p align="center">
   <img src="http://resources.spacexchimp.com/images/logos/HTML5.png">
   <img src="http://resources.spacexchimp.com/images/logos/CSS3.png">
-  <img src="https://thumbnail.imgbin.com/5/9/23/imgbin-javascript-logo-solution-stack-software-widget-python-others-7GECHFyei7TvNvT5vDucvi5zG_t.jpg">
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png">
   
   
 </p>
