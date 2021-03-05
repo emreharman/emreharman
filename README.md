@@ -1,12 +1,12 @@
-<h1 align="center" style=`color: #336DFF;`>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center" >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">My name is Emre Harman and I'm a CS student at Sakarya University. I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network.</p>
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i><b>Let's connect with me!</b></i>
 
   <p align="center">
-    <a href="https://twitter.com/yazilimci1baba" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/yazilimci1baba" alt="Twitter" color=`#336DFF`><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/emre-harman-2671481a6/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:emrehrmn@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://emreharman.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
