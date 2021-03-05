@@ -2,15 +2,21 @@
 
 My name is Emre Harman and I'm a CS student at Sakarya University. I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network.
 
-# Coctact me : 
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p> 
 
 ## Technologies:
 
 [![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
 [![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]()
-[![PHP](http://resources.spacexchimp.com/images/logos/PHP.png)]()
-[![WordPress](http://resources.spacexchimp.com/images/logos/WordPress.png)](https://wordpress.org)
-[![License](http://resources.spacexchimp.com/images/logos/GPLv3.png)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 
 <!--
