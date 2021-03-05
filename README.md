@@ -17,7 +17,7 @@
 <p align="center">
   <img src="http://resources.spacexchimp.com/images/logos/HTML5.png">
   <img src="http://resources.spacexchimp.com/images/logos/CSS3.png">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png">
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="100">
   
   
 </p>
