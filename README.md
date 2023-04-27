@@ -6,10 +6,10 @@
   <b>Let's contact with me!</b>
 
   <p align="center">
-    <a href="https://twitter.com/yazilimci1baba" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/mernmania" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/emre-harman-2671481a6/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:emrehrmn@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://emreharman.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://mernmania.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p> 
 
 <h2 align="center">:computer: Technologies :computer:</h2>
@@ -21,7 +21,6 @@
   <img src="https://ensocore.com/media/61/reactjs-logo-sticker%20%281%29.jpg" width="60" height="60">
     <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="60" height="60">
   <img src="https://www.onurbabur.com/wp-content/uploads/2017/11/ms-sql-server-logo-square.jpg" width="60" height="60">
-  <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/postgresql/img/postgresql-stack-220x234.png" width="60" height="60">
 </p>
 
 <hr>
